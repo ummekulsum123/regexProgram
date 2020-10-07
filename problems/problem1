@@ -3,7 +3,7 @@ Literal Strings: Match the lines with the string "abc." in them.
 --line
 abc.
 abc.def
-cout << "abc." << endl
+count << "abc." << endl
 abc
 abcdef
 123
